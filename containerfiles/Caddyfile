@@ -1,0 +1,5 @@
+:9999 {
+	root * /app/web
+	encode gzip
+	file_server
+}
